@@ -1,18 +1,1 @@
-{'ver1':'7', 'ver2':'50', 'ver3':'\n
-تحديث قاعدة 2.19.291\n
-اضافه ستايل جديد لاضافات عبود جحاف\n
-اضافه ستايل جديد للنص التلقائي\n
-اضافه اضافة شكل الستوري مثل الانستغرام\n
-اضافه زيادة مدة حجم الحالة الى اكثر من 10 دقائق\n
-اضافه زيادة اعادة التوجية الى مالانهاية\n
-جديد تستطيع الان تثبيت اكثر من 1000 محادثة\n
-إصلاح مشكلة تأخر وصول الرسائل في بعض الاجهزة\n
-إصلاح مشكلة الانهيارات في بعض الاجهزة\n
-[أضيفت] Instagram-like Store يمكنك تمكينه من الشاشة الرئيسية >> Header\n
-[أضيفت] تعطيل النقر على "WhatsApp"\n
-[أضيفت] إخفاء تحديث الحالة الصامتة\n
-[أضيف] إخفاء تحديث حالة المشاهدة\n
-[أضيفت] إخفاء تحديث الحالة الأخيرة\n
-[ثابت] تحطم على المستخدمين كيت كات\n
-مزيد  إصلاحات وتحسينات أخرى\n
-' , 'dli':'https://abboodjahaf.blogspot.com/search/label/AJWhatsApp'}
+{'ver1':'7', 'ver2':'50', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'https://abboodjahaf.blogspot.com/search/label/AJWhatsApp'}
