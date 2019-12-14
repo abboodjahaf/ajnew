@@ -1,18 +1,1 @@
-{'ver1':'7', 'ver2':'50', 'ver3':'\n
-[Base] Update 2.19.291\n
-[Added] Instagram-like Store you can enable it from Home Screen >> Header\n
-[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n
-[Added] Hide Viewed Status update\n
-[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n
-New:Style for AJ Settings\n
-Added: New Style for AJ Settings\n
-Added: New Style for Auto Text\n
-Added: Instagram-lilke Store you can enable it from Home Screen >> Header\n
-Fixed: Problem with late Messages\n
-Fixed: Crash on Kitkat's 4.4 users\n
-Fixed: Don't have enough disk Space\n
-Enabled: Increase Status Limit to 10 Minutes\n
-Enabled: Increase Forward to Unlimited\n
-Fixed: Pinned chats now is 1000\n
-Fixed: More bug fixes and improvements!\n
-' , 'dli':'https://abboodjahaf.blogspot.com/search/label/AJWhatsApp.html'}
+{'ver1':'7', 'ver2':'50', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\nNew:Style for AJ Settings\nAdded: New Style for AJ Settings\nAdded: New Style for Auto Text\nAdded: Instagram-lilke Store you can enable it from Home Screen >> Header\nFixed: Problem with late Messages\nFixed: Crash on Kitkat's 4.4 users\nFixed: Don't have enough disk Space\nEnabled: Increase Status Limit to 10 Minutes\nEnabled: Increase Forward to Unlimited\nFixed: Pinned chats now is 1000\nFixed: More bug fixes and improvements!\n' , 'dli':'https://abboodjahaf.blogspot.com/search/label/AJWhatsApp'}
