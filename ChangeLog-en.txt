@@ -3,7 +3,7 @@
     "update_code": "5",
     "reminder_time": "3",
     "update_version": "v37.20",
-    "com.ajwhatsapp": "https://agmods.app/update",
+    "com.ajwhatsapp": "https://abboodjahaf.blogspot.com/2023/11/ajwhatsapp.html",
     "com.agwhatsapp": "https://agmods.app/update",
     "com.ag2whatsapp": "https://agmods.app/update",
     "com.ag3whatsapp": "https://agmods.app/update",
