@@ -3,7 +3,7 @@
     "update_code": "6",
     "reminder_time": "3",
     "update_version": "v37.25",
-    "com.ajwhatsapp": "https://abboodjahaf.blogspot.com/2023/11/ajwhatsapp.html",
+    "com.ajwhatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-blue-apk.html",
     "com.agwhatsapp": "https://agmods.app/update",
     "com.ag2whatsapp": "https://agmods.app/update",
     "com.ag3whatsapp": "https://agmods.app/update",
