@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "9",
+    "update_code": "5",
     "reminder_time": "3",
     "update_version": "v9.30",
     "com.ajwhatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-blue-apk.html",
@@ -10,9 +10,9 @@
     "com.erwhatsapp": "https://agmods.app/update",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 37.15</p>
-<li><baseup>Base Updated</baseup> 2.23.25.78 — Play Store</li>
-<li><point style="font-weight: bold;">📌 Exclusive</point> Anti-Banned Fixed Need to use Official WhatsApp</li>
-<li><enable>Enabled</enable> Search in Chat by (Date / Time)</li>
+<li>ase Updated 2.23.25.78 — Play Store</li>
+<li>📌 Exclusive Anti-Banned Fixed Need to use Official WhatsApp</li>
+<li>Enabled Search in Chat by (Date / Time)</li>
 <li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 2.23.25.78</li>
 <li>ط­طµط±ظٹط§ ط¥طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط§ظ„ط­ط¸ط± ظˆط­ظ„ ظ…ط´ظƒظ„ط© طھظ†ط¨ظٹظ‡ ظٹط¬ط¨ ط§ط³طھط®ط¯ط§ظ… ط§ظ„ظˆط§طھط³ط§ط¨ ط§ظ„ط±ط³ظ…ظٹ</li>
 <li>ط§ط¶ط§ظپط© ظ…ظٹط²ط© ط§ظ„ط¨ط­ط« ط¹ظ† ط§ظ„ط±ط³ط§ط¦ظ„ ط¯ط§ط®ظ„ ط§ظ„ظ…ط­ط§ط¯ط«ط© ط­ط³ط¨ ط§ظ„طھط§ط±ظٹط® ظˆط§ظ„ظˆظ‚طھ</li>
