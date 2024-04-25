@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "5",
+    "update_code": "20",
     "reminder_time": "3",
     "update_version": "v9.30",
     "com.whatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-plus-apk.html",
