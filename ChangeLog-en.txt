@@ -3,11 +3,10 @@
     "update_code": "5",
     "reminder_time": "3",
     "update_version": "v9.30",
+    "com.whatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-plus-apk.html",
     "com.ajwhatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-blue-apk.html",
-    "com.agwhatsapp": "https://agmods.app/update",
-    "com.ag2whatsapp": "https://agmods.app/update",
-    "com.ag3whatsapp": "https://agmods.app/update",
-    "com.erwhatsapp": "https://agmods.app/update",
+    "com.aj2whatsapp": "https://abboodjahaf.blogspot.com/2020/09/2020-whatsapp-red-apk.html",
+    "com.aj3whatsapp": "https://abboodjahaf.blogspot.com/2020/10/whatsapp-gold-2021.html",
     "update_message": "
 <p>Update Vتحديث« 9.20</p>
 <li>⏫ تحديث قاعد واتساب الى 2.23.25.78</li>
