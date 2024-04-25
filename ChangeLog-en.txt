@@ -54,6 +54,48 @@
 <li>تفعيل ايقونة اخفاء الظهور في الFAB</li>
 <li>إصلاح الانهيارات في الاضافات</li>
 <li>مزيد إصلاحات وتحسينات أخرى</li>
+
+<li>⏫ Base Updated2.23.25.78 — Play Store</li>
+<li>📌 Exclusive Anti-Banned Fixed Need to use Official WhatsApp</li>
+<li>Enabled Search in Chat by (Date / Time)</li>
+<li>Enabled Send voice notes(View Once)</li>
+<li>Disabled showing Name/Date when copying more than 1 message</li>
+<li>Added ability to make a call phone with Business accounts</li>
+<li>Added New style for loading fonts</li>
+<li>Fixed hide view status when enabling Ghost mod</li>
+<li>Fixed Anti-view once</li>
+<li>Fixed hide blue ticks</li>
+<li>Fixed Hidden chats not opening in some styles</li>
+<li>Fixed Scrolling in chat screen</li>
+<li>Fixed asking for open lock twice in chat</li>
+<li>Fixed Themes not working in Emojis dialog</li>
+<li>Fixed Green dot in Chats screen</li>
+<li>Fixed Restore Backup from SD</li>
+<li>Fixed some colors themes not working in some screens</li>
+<li>Fixed Chats icons colors</li>
+<li>Fixed Fonts not working in some screens</li>
+<li>Added Support translation in two ways</li>
+<li>Fixed Pinned chats</li>
+<li>Enabled Username Feature</li>
+<li>Enabled Green dots Automatically in chats</li>
+<li>Enabled Toast who viewed your status by default</li>
+<li>Disabled The new style</li>
+<li>Fixed Crash when adding a member</li>
+<li>Fixed Pressing on the "WhatsApp"</li>
+<li>Fixed Showing Name & Date when copying more than 1 messages</li>
+<li>Fixed open chats from notifications</li>
+<li>Fixed listen to voice notes(Speaker)</li>
+<li>Fixed Showing profile pic of hidden chats in Notifications</li>
+<li>Fixed Hidden chats options</li>
+<li>Fixed long click on messages</li>
+<li>Fixed open hidden chats in some phones</li>
+<li>Fixed Sign in faild after activating the number </br>
+<li>Fixed Problem with a Mass Message Sender</li>
+<li>Fixed Problem with exiting the WhatsApp when opening hidden conversations</li>
+<li>Fixed Fingerprint problem</li>
+<li>Fixed Crash problem when activating a number</li>
+<li>Enabled Icon to hide Last Seen in the FAB</li>
+<li>⚙️ Misc Other fixes and improvements</li>
 "
     }
 }
